@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_image3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\src\\main\\res\\drawable-hdpi\\guide_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_image2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\src\\main\\res\\drawable-hdpi\\guide_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_image1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ViewPagerAnim\\app\\src\\main\\res\\drawable-hdpi\\guide_image1.png"
+    }
+]
